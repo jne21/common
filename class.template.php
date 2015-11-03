@@ -10,7 +10,8 @@ class template {
 		DB          = 'db',
 		TABLE       = 'template',
 		FIELD_KEY   = 'alias',
-		FIELD_VALUE = 'html';
+		FIELD_VALUE = 'html'
+	;
 
 	protected $tpl;
 
